@@ -4,6 +4,7 @@
  * Created: 11/1/2022 8:33:42 AM
  * Author : prate
  * ref: https://www.youtube.com/watch?v=5HgQkHzQc3o
+ * to use time counter https://forum.arduino.cc/t/timer2-with-prescaler-1024-too-fast/3413
  */ 
 
 #include <avr/io.h>
