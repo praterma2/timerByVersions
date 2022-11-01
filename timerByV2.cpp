@@ -3,6 +3,7 @@
  *
  * Created: 11/1/2022 8:33:42 AM
  * Author : prate
+ * ref: https://www.youtube.com/watch?v=5HgQkHzQc3o
  */ 
 
 #include <avr/io.h>
